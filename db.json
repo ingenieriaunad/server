@@ -1,0 +1,11 @@
+{
+    "login":{
+        "user":{
+            "username":"adminsite@mytaks.com",
+            "name":"Admin Site",
+            "password":"123456"
+        },
+        "token":"",
+        "status":200
+    }
+}
